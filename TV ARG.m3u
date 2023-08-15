@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="2MB | Cinecanal" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | 2 Megas",2MB | Cinecanal
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092595
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="2MB | Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | 2 Megas",2MB | Golden Edge
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092586
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="2MB | HBO" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | 2 Megas",2MB | HBO
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092584
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="2MB | HBO + LQ" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | 2 Megas",2MB | HBO + LQ
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092585
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="2MB | HBO 2" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | 2 Megas",2MB | HBO 2
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092625
+#EXTINF:-1 tvg-id="space.mx" tvg-name="2MB | Space" tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | 2 Megas",2MB | Space
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2092578
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 2 | ARG" tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="TV | Deportes",D| Espn 2 | ARG
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/181346
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 2 | ARG HD" tvg-logo="http://ceoapps.org/logos/espn2arg.png" group-title="TV | Deportes",D| Espn 2 | ARG HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/181332
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn 3 | ARG" tvg-logo="http://ceoapps.org/logos/espn3arg.png" group-title="TV | Deportes",D| Espn 3 | ARG
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/181348
+#EXTINF:-1 tvg-id="" tvg-name="D| ESPN Premium ARG" tvg-logo="http://ceoapps.org/logos/espnpremiumarg.png" group-title="TV | Deportes",D| ESPN Premium ARG
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2121662
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Espn | ARG" tvg-logo="http://ceoapps.org/logos/espnarg1.png" group-title="TV | Deportes",D| Espn | ARG
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/181047
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports 2 | ARG" tvg-logo="http://ceoapps.org/logos/foxsports2arg.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/183215
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports 2 | ARG HD" tvg-logo="http://ceoapps.org/logos/foxsports2arg.png" group-title="TV | Deportes",D| Fox Sports 2 | ARG HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10957
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D| FOX Sports Premium Arg
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/195839
+#EXTINF:-1 tvg-id="foxsports.mx" tvg-name="D| FOX Sports Premium Arg HD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D| FOX Sports Premium Arg HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10915
+#EXTINF:-1 tvg-id="" tvg-name="D| Fox Sports | ARG" tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="TV | Deportes",D| Fox Sports | ARG
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2090080
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| Fox Sports | ARG HD" tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="TV | Deportes",D| Fox Sports | ARG HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/14651
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TNT Sports" tvg-logo="http://ceoapps.org/logos/tntsports.png" group-title="TV | Deportes",D| TNT Sports
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/155677
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TNT Sports HD" tvg-logo="http://ceoapps.org/logos/tntsports.png" group-title="TV | Deportes",D| TNT Sports HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/155247
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="D| TYC Sports" tvg-logo="http://ceoapps.org/logos/tycsports.png" group-title="TV | Deportes",D| TYC Sports
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/25279
+#EXTINF:-1 tvg-id="TyC Sp" tvg-name="D| TYC Sports HD" tvg-logo="http://ceoapps.org/logos/tycsports.png" group-title="TV | Deportes",D| TYC Sports HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/199511
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10844
+#EXTINF:-1 tvg-id="cinecanal.mx" tvg-name="P | Cinecanal HD" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10845
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax" tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10846
+#EXTINF:-1 tvg-id="cinemax.mx" tvg-name="P | Cinemax HD" tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10847
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | Peliculas",P | Golden Edge
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10859
+#EXTINF:-1 tvg-id="goldenedge.mx" tvg-name="P | Golden Edge HD" tvg-logo="https://static.epg.best/mx/GoldenEdge.mx.png" group-title="TV | Peliculas",P | Golden Edge HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154111
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="P | Golden Plus" tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Plus
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10860
+#EXTINF:-1 tvg-id="goldenplus.mx" tvg-name="P | Golden Plus HD" tvg-logo="http://fanc.tmsimg.com/assets/s68317_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Plus HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10862
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Premier
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/200948
+#EXTINF:-1 tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier HD" tvg-logo="http://fanc.tmsimg.com/assets/s80596_ll_h3_ab.png" group-title="TV | Peliculas",P | Golden Premier HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/200947
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="P | Golden." tvg-logo="http://xtream.host/imagenes/canales/golden.png " group-title="TV | Peliculas",P | Golden.
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10861
+#EXTINF:-1 tvg-id="golden.mx" tvg-name="P | Golden HD" tvg-logo="http://xtream.host/imagenes/canales/golden.png " group-title="TV | Peliculas",P | Golden HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/154110
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas",P | HBO
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10886
+#EXTINF:-1 tvg-id="hbo.mx" tvg-name="P | HBO HD" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas",P | HBO HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10885
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO +" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | Peliculas",P | HBO +
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10879
+#EXTINF:-1 tvg-id="hboplus.mx" tvg-name="P | HBO + HD" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | Peliculas",P | HBO + HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10880
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | Peliculas",P | HBO 2
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10884
+#EXTINF:-1 tvg-id="hbo2.mx" tvg-name="P | HBO 2 HD" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | Peliculas",P | HBO 2 HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10883
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P | HBO Family" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="TV | Peliculas",P | HBO Family
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10877
+#EXTINF:-1 tvg-id="hbofamily.mx" tvg-name="P | HBO Family HD" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="TV | Peliculas",P | HBO Family HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10878
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P | HBO Mundi" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="TV | Peliculas",P | HBO Mundi
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10863
+#EXTINF:-1 tvg-id="hbomundi.mx" tvg-name="P | HBO Mundi HQ" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="TV | Peliculas",P | HBO Mundi HQ
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/155167
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="P | HBO POP" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="TV | Peliculas",P | HBO POP
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/41421
+#EXTINF:-1 tvg-id="hbopo.mx" tvg-name="P | HBO POP HD" tvg-logo="https://www.vhv.rs/dpng/d/438-4382659_hbo-pop-png-transparent-png.png" group-title="TV | Peliculas",P | HBO POP HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/41420
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P | HBO Signature" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="TV | Peliculas",P | HBO Signature
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10881
+#EXTINF:-1 tvg-id="hbosignature.mx" tvg-name="P | HBO Signature HD" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="TV | Peliculas",P | HBO Signature HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10882
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="P | HBO Xtreme" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="TV | Peliculas",P | HBO Xtreme
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/197618
+#EXTINF:-1 tvg-id="hboxtreme.mx" tvg-name="P | HBO Xtreme HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/HBO_Xtreme.svg/1200px-HBO_Xtreme.svg.png" group-title="TV | Peliculas",P | HBO Xtreme HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/157156
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10866
+#EXTINF:-1 tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel HD" tvg-logo="http://fanc.tmsimg.com/assets/s91029_ll_h3_ab.png" group-title="TV | Peliculas",P | Paramount Channel HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10867
+#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space | MX" tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space | MX
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10870
+#EXTINF:-1 tvg-id="space.mx" tvg-name="P | Space | MX | HD" tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space | MX | HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10871
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/10875
+#EXTINF:-1 tvg-id="tnt.mx" tvg-name="P | TNT HD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/155176
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Cinema" tvg-logo="http://ceoapps.org/logos/universalcinema.png" group-title="TV | Peliculas",P | Universal Cinema
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2081448
+#EXTINF:-1 tvg-id="" tvg-name="P | Universal Comedy" tvg-logo="https://forounivers.com/uploads/monthly_2021_10/large.UNIVERSAL_COMEDY.png.533fc9f53f261cd502372e7eb4c23d09.png" group-title="TV | Peliculas",P | Universal Comedy
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/2081444
+#EXTINF:-1 tvg-id="A24.ar" tvg-name="AR| A24" tvg-logo="http://ceoapps.org/logos/a24.png" group-title="TV | Argentina",AR| A24
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/210833
+#EXTINF:-1 tvg-id="C5N.ar" tvg-name="AR| C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/C5N_logo.svg/1200px-C5N_logo.svg.png" group-title="TV | Argentina",AR| C5N
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/210834
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="AR| Canal 26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV | Argentina",AR| Canal 26
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/210840
+#EXTINF:-1 tvg-id="247CanaldeNoticias.ar" tvg-name="AR| Canal 26 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="TV | Argentina",AR| Canal 26 HD
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/210841
+#EXTINF:-1 tvg-id="CronicaTV.ar" tvg-name="AR| Cronica" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4DC0-vjxdknUnvyD_wtUZ3iAacVmZqmj7_O6aRYYGT30zyv7Up4KWSamHZ_eZ3H84uhvmrXs-XiVCG2KX_xVteVyguWXrPr1D_MNiBJT6ckBDA_-5Gx-FTnaXA0EXGl4o2i91qFqnI0Z5P9N45IKO5TX3bDdWMmqTXzua5KV5YRDJAJnkNPN0hx9h/s558/CRONICATV.png" group-title="TV | Argentina",AR| Cronica
+http://magi-stv.net:8080/CPlayplus_1/HsYqKZQrTZaxK/210848

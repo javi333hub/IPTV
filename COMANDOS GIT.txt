@@ -1,0 +1,39 @@
+Sobre la carpeta que quiero subir un proyecto a GITHUB, en este caso la carpeta "M3U",abrir el ...
+click secundario  "open git bash here"
+
+1) git init
+Reinitialized existing Git repository in E:/PROGRAMAS/M3U/.git/
+
+2) Copiar la sexta linea cuando creas un repositorio...
+
+    git remote add origins https://github.com/DevelopeandoHub/"NOMBRE DEL REPO CREADO".git
+    git remote add origins https://github.com/DevelopeandoHub/"IPTV".git
+
+3) git status   >> sale en color rojo, significa que no esta trackeado
+
+4) git add . (agrega todos los archivos de la carpeta)
+    git add . tv-1.m3u    >> IMPORTANTE   git add (espacio) tv-1.m3u
+
+5) git status
+    (agrega este solo archivo (tv-1.m3u) y se pone en color verde)  >> esta trackeado
+
+6) git commit -m "poner msj descriptivo"  ej "agregue lista"
+   apretar enter y git va a decir que se creo el archivo
+
+7) git status  >> sino tira ningun error, entonces.....
+
+8) git push   >> tira ese error porque no esta la branch activa y copiar y pegar...
+
+9) git push --set-upsteam origin master    >> ahi se crea la branch en GIT HUB
+
+    Para agregar otro archivo de la carpeta "M3U" si coloco un archivo por ej "pelis"
+
+10)git status  >> "pelis" sale en color rojo, significa que no esta trackeado
+
+11)git add  >> se agrega la carpeta
+
+12)git status  >> "pelis" sale en color verde, significa que esta trackeado
+
+13)git commit -m "agrege pelis en su carpeta"
+
+14)git push  >> se sube el archivo "pelis" a GITHUB
